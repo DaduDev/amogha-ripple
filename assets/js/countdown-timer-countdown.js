@@ -42,5 +42,5 @@ function initializeClock(id, endtime) {
 }
 
 // Set the deadline to March 22, 2024
-var deadline = new Date('March 06, 2025 00:00:00 GMT+0000');
+var deadline = new Date('March 21, 2025 00:00:00 GMT+0000');
 initializeClock('clockdiv', deadline);
